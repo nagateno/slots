@@ -1,0 +1,437 @@
+/* ==================== Вывод формы по умолчанию */
+
+form {  
+	padding-top: 0px;
+	padding-bottom: 0px;	
+	padding-right: 0px; 
+	padding-left: 0px; 
+	margin: 0px;
+}
+#loading-layer {
+	display:none;
+	font-family: Verdana;font-size: 11px;
+	background:#000;padding:10px;
+	text-align:center;
+	border:1px solid #000;
+	color: #FFF;
+}
+/*---Найденные похожие новости при добавлении новостей на сайте---*/
+.findrelated {
+	width:99%;
+	background: #ffc;border:1px solid #9E9E9E;
+	padding: 5px;margin-top: 7px;
+	margin-right: 10px;
+}
+/* ==================== Цитата и скрытый текст */
+
+.title_quote {
+	color: #636363;
+	background-color: #f2f2f2;
+	border: 1px dotted #bebebe; 
+	border-bottom: 0;
+	font-weight: bold;
+	padding: 5px;
+}
+.quote {
+	color: #757575;
+	background-color: #f2f2f2;
+	border: 1px dotted #bebebe;
+	text-align: justify;
+	padding: 5px;
+}
+
+/* ==================== Тег SPOILER */
+
+.title_spoiler {
+	color: #636363;
+	background-color: #f2f2f2;
+	border: 1px dotted #bebebe; 
+	font-weight: bold;
+	padding: 5px;
+}
+.text_spoiler {
+	color: #757575;
+	background-color: #f2f2f2;
+	border: 1px dotted #bebebe;
+	border-top: 0;
+	text-align: justify;
+	padding: 5px;
+}
+
+/* ==================== Tэг CODE */
+
+.scriptcode {
+	color: #757575;
+	background-color: #f2f2f2; 
+	border: 1px dotted #bebebe;
+	text-align: left;
+	padding: 5px;
+}
+
+/* ==================== BB коды */
+ 
+.editor_button {
+	float: left;
+	cursor: pointer;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+.editor_buttoncl {
+	float: left;
+	cursor: pointer;
+	padding-left: 1px;
+	padding-right: 1px;
+	border-left: 1px solid #bbbbbb;
+	border-right: 1px solid #bbbbbb;
+}
+.editbclose {
+	float: right;
+	cursor: pointer;
+}
+.editor_button select {
+	font-family: tahoma;
+	font-size: 11px;
+}
+.editor_button img {margin: 0; padding: 0;}
+.editbclose img {margin: 0; padding: 0;}
+.editor_button_brk img {margin: 0; padding: 0;}
+
+/* ==================== Дополнительные поля новостей */
+
+.xfields textarea {
+	color: #757575;		/* ! */
+	font-size: 11px;		/* ! */
+	font-family: tahoma;	/* ! */
+	background-repeat: repeat-x;
+	width: 100%;
+	height: 86px;
+	border: 1px solid #e0e0e0;
+}
+.xfields input {
+	color: #757575;		/* ! */
+	font-size: 11px;		/* ! */
+	font-family: tahoma;	/* ! */
+
+	width: 250px;
+	height: 14px;
+	border: 1px solid #e0e0e0;
+}
+.xfields select {
+	color: #757575;		/* ! */
+	font-size: 11px;		/* ! */
+	font-family: tahoma;	/* ! */
+	border: 1px solid #e0e0e0;
+}
+
+/* ==================== Дополнительные поля профиля пользователей */
+
+.xprofile textarea {
+	color: #757575;		/* ! */
+	font-size: 11px;		/* ! */
+	font-family: tahoma;	/* ! */
+	width: 316px;
+	height: 86px;
+	border: 1px solid #e0e0e0;
+}
+.xprofile input {
+	color: #757575;		/* ! */
+	font-size: 11px;		/* ! */
+	font-family: tahoma;	/* ! */
+	width: 250px;
+	height: 14px;
+	border: 1px solid #e0e0e0;
+}
+
+/* ==================== Выпадающее меню */
+
+#dropmenudiv {
+	border: 1px solid #ffffff;
+	border-bottom-width: 0;
+	font: normal 10px Verdana;
+	background-color: #6497ca;
+	line-height: 20px;
+	margin: 2px;
+	opacity: 0.95;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=95) progid:DXImageTransform.Microsoft.Shadow(color=#cacaca, direction=135, strength=3)";
+	filter: alpha(opacity=95, enabled=1) progid:DXImageTransform.Microsoft.Shadow(color=#cacaca, direction=135, strength=3);
+}
+
+#dropmenudiv a {
+	display: block;
+	text-indent: 3px;
+	text-decoration:none;
+	color: #ffffff;
+	background:#6497ca;
+	border: 1px solid #ffffff;
+	padding: 1px 0;
+	margin: 1px;
+	font-weight: bold;
+}
+
+#dropmenudiv a:hover {
+	background:#fdd08b;
+	color:#000000;
+}
+/* ==================== Опрос пользователей */
+
+.vote {
+	color: #757575;
+}
+
+/* ==================== Уведомление о получении новых PM */
+
+#newpm {
+	position: absolute;
+	width: 400px;
+	padding: 4px;
+	background-color: #fdfdfd;
+	border: 1px solid #bbbbbb;
+	font-family: verdana;
+	line-height: 135%;
+}
+#newpmheader {
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 2px;
+	height: 20px;
+	color: #636363;
+	font-weight: bold;
+	background-color: #b2c7f1;
+	font-family: verdana;
+	cursor: move;
+}
+#newpm a {
+	background: transparent;
+	color: #4b73d4;
+	text-decoration: none;
+}
+#newpm a:hover {
+	background: transparent;
+	color: #4b73d4;
+	text-decoration: underline;
+}
+
+/* ==================== Ссылка на скачивание прикрепленного файла */
+
+.attachment {
+	color: #808080;
+}
+
+/* ==================== Поиск по сайту и результаты поиска */
+
+.search {
+	color: #757575;
+	text-decoration: none;
+}
+.textin { text-decoration: none; }
+.sresult  {
+	text-align: justify;
+	font-weight: normal;
+	line-height: 16px;
+	font-size: 12px;
+	color: #757575;
+}
+
+
+/* ==================== Рамка расширенной формы поиска по сайту */
+
+	fieldset {
+		border: 1px solid #e0e0e0;
+		padding: 5px;
+		text-align: left;
+		font-size: 11px;		/* ! */
+		font-family: tahoma;	/* ! */
+	}
+
+/* ==================== показ оригинальной картинки загруженной на сайт из уменьшенной копии */
+.highslide-active-anchor img {
+	visibility: hidden;
+}
+.highslide-image-blur {
+}
+.highslide-html {
+	background-color: white;
+}
+.highslide-html-content {
+	display: none;
+}
+.highslide-loading {
+    display: block;
+	color: white;
+	font-size: 9px;
+	font-weight: bold;
+    text-decoration: none;
+	padding: 3px;
+	border: 1px solid white;
+    background-color: black;
+}
+a.highslide-full-expand {
+	background: url(../dleimages/fullexpand.gif) no-repeat;
+	display: block;
+	margin: 0 10px 10px 0;
+	width: 34px;
+	height: 34px;
+}
+.highslide-footer {
+	height: 11px;
+}
+.highslide-footer .highslide-resize {
+	float: right;
+	height: 12px;
+	width: 11px;
+	background: url(../dleimages/resize.gif);
+}
+.highslide-resize {
+    cursor: nw-resize;
+}
+.highslide-display-block {
+    display: block;
+}
+.highslide-display-none {
+    display: none;
+}
+
+/*---Показ древовидных комментариев---*/
+.comments-tree-list {
+	display: block;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.comments-tree-list .comments-tree-list {
+	padding-left: 10px;
+}
+
+.comments-tree-item {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+/*---Форма быстрого ответа на комментарий---*/
+
+#dlefastreplycomments {
+	padding:5px;
+	background: #e4ecf0;
+    margin: 5px 5px 5px 10px;
+}
+
+.commentsreplyname {
+	padding: 2px; border: 1px solid #bcc0c2;
+	width: 200px;
+}
+
+/* ==================== Облако тегов */
+.clouds_xsmall {
+	font-size: x-small;
+}
+.clouds_small {
+	font-size: small;
+}
+.clouds_medium {
+	font-size: medium;
+}
+.clouds_large {
+	font-size: large;
+}
+.clouds_xlarge {
+	font-size: x-large;
+}
+/*---Диалоговые и всплывающие окна jQuery UI---*/
+.ui-widget-overlay { background: #bfbfbf; opacity:0.7; -moz-opacity:0.7; filter:alpha(opacity=70); left: 0; top: 0; right: 0; bottom: 0; position: fixed; }
+.ui-helper-clearfix:after { clear: both; content: "."; display: block; height: 0; visibility: hidden }
+.ui-helper-clearfix { display: inline-block }
+* html .ui-helper-clearfix { height: 1% }
+.ui-helper-clearfix { display: block }
+
+.ui-dialog { display: none; background-color: #fff; overflow: hidden; padding: 0; position: absolute; width: 300px; 
+  box-shadow: 0 0 40px 0 rgba(0,0,0,0.16); -moz-box-shadow: 0 0 40px 0 rgba(0,0,0,0.16); -webkit-box-shadow: 0 0 40px 0 rgba(0,0,0,0.16);
+}
+.ui-dialog-titlebar { padding: 17px 25px 18px 25px; border-bottom: 1px solid #e6e6e6 }
+.ui-dialog-title { margin-top: 2px; float: left; font-size: 20px; font-weight: bold }
+.ui-dialog-titlebar-close .ui-icon { position: absolute; right: 18px; top: 20px; height: 31px; width: 31px; background-position: -37px -45px; }
+
+.ui-dialog .ui-dialog-content { border-top-left-radius: 0; border-top-right-radius: 0; padding: 25px; border: 0; overflow: auto; position: relative; zoom: 1; }
+.ui-dialog-content h2 { display: inline; font-size: 1em; font-weight: bold }
+.ui-dialog .ui-dialog-buttonpane { border-top: 1px solid #e6e6e6; padding: 15px 20px; text-align: center; }
+
+.ui-dialog .ui-resizable-se { bottom: 3px; height: 14px; right: 3px; width: 14px; }
+.ui-draggable .ui-dialog-titlebar { cursor: move; }
+
+.ui-state-error { background: #fef1ec 50% 50% repeat-x !important; border: 1px solid #cd0a0a; color: #cd0a0a; }
+
+/*---BB Редактор---*/
+.bb-editor textarea { 
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+    padding: 2px; border: 1px solid #bcc0c2; width: 100%; background: #fff;
+}
+.editorcomm .bb-editor { width: 465px; }
+.editorcomm .bb-editor textarea { height: 156px; }
+
+/*---Выделение текста и всплывающее окно (поделиться ссылкой)---*/
+#marker-bar, #txtselect_marker, #share-popup { display: none; }
+
+
+
+/*
+© Сenter-dm.ru, 2011
+Author: center-dm.ru@yandex.ru
+Author URI: http://www.сenter-dm.ru
+*/
+
+/* ОСНОВА 
+===========================================================================================*/
+body  {margin: 0 auto; padding: 0;  width: 100%; height: 100%; background: #fff;}
+body,
+td     {font:8px Verdana,Arial,Helvetica, sans-serif; color:#555;}
+img    {border: none;}
+
+        a {text-decoration:none;outline:none}
+a:link    {text-decoration:none; color:#2C68A6;}
+a:visited {text-decoration:none; color:#2C68A6;}
+a:hover   {text-decoration:none; color:#60a62c;}
+
+#container       {margin: 0px auto; width:600px; height:100%; }
+#container_os    {margin: 250px 0px 50px 0px;}
+#container_os h2 {font: 145%/1.5 Verdana,Arial,Helvetica, sans-serif; color:#008000; font-weight: bold; border-bottom: 1px solid #D6D6D6;}
+.otstup          {margin: 20px 0px 20px 0px;}
+
+/* unitip css */
+#unitip {
+  position: absolute;
+  z-index: 1000;
+  top: -1000px;
+  color: #fff;
+  font:9px Verdana,Arial,Helvetica, sans-serif; color:#CED9E8;
+  display: none;
+}
+
+#unitippoint, #unitipmid, #unitipcap {
+  position: relative;
+  top: 0px; 
+  left: 0px;
+  width: 195px;
+  display: block;
+}
+	
+#unitippoint { 
+  background: url('http://nagateno.com/img/TipPoint.png1') no-repeat; 
+  height: 19px; 
+  overflow: hidden; 
+}
+	
+#unitipmid { 
+  background: url('http://nagateno.com/img/TipMid.png') repeat; 
+  width: 155px;
+  height: auto; 
+  padding: 5px 15px;
+}
+	
+#unitipcap { 
+  background: url('http://nagateno.com/img/TipCap.png1') no-repeat; 
+  height: 7px; 
+  overflow: hidden; 
+}
+	
+/* ========================================================================================*/
