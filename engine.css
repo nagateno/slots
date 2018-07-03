@@ -1,3 +1,4 @@
+
 /* ==================== Вывод формы по умолчанию */
 
 form {  
@@ -371,67 +372,3 @@ a.highslide-full-expand {
 
 /*---Выделение текста и всплывающее окно (поделиться ссылкой)---*/
 #marker-bar, #txtselect_marker, #share-popup { display: none; }
-
-
-
-/*
-© Сenter-dm.ru, 2011
-Author: center-dm.ru@yandex.ru
-Author URI: http://www.сenter-dm.ru
-*/
-
-/* ОСНОВА 
-===========================================================================================*/
-body  {margin: 0 auto; padding: 0;  width: 100%; height: 100%; background: #fff;}
-body,
-td     {font:8px Verdana,Arial,Helvetica, sans-serif; color:#555;}
-img    {border: none;}
-
-        a {text-decoration:none;outline:none}
-a:link    {text-decoration:none; color:#2C68A6;}
-a:visited {text-decoration:none; color:#2C68A6;}
-a:hover   {text-decoration:none; color:#60a62c;}
-
-#container       {margin: 0px auto; width:600px; height:100%; }
-#container_os    {margin: 250px 0px 50px 0px;}
-#container_os h2 {font: 145%/1.5 Verdana,Arial,Helvetica, sans-serif; color:#008000; font-weight: bold; border-bottom: 1px solid #D6D6D6;}
-.otstup          {margin: 20px 0px 20px 0px;}
-
-/* unitip css */
-#unitip {
-  position: absolute;
-  z-index: 1000;
-  top: -1000px;
-  color: #fff;
-  font:9px Verdana,Arial,Helvetica, sans-serif; color:#CED9E8;
-  display: none;
-}
-
-#unitippoint, #unitipmid, #unitipcap {
-  position: relative;
-  top: 0px; 
-  left: 0px;
-  width: 195px;
-  display: block;
-}
-	
-#unitippoint { 
-  background: url('http://nagateno.com/img/TipPoint.png1') no-repeat; 
-  height: 19px; 
-  overflow: hidden; 
-}
-	
-#unitipmid { 
-  background: url('http://nagateno.com/img/TipMid.png') repeat; 
-  width: 155px;
-  height: auto; 
-  padding: 5px 15px;
-}
-	
-#unitipcap { 
-  background: url('http://nagateno.com/img/TipCap.png1') no-repeat; 
-  height: 7px; 
-  overflow: hidden; 
-}
-	
-/* ========================================================================================*/
