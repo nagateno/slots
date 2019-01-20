@@ -1,0 +1,3931 @@
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+<!-- SAPE RTB JS -->
+<script
+    async="async"
+    src="//cdn-rtb.sape.ru/rtb-b/js/736/2/27736.js"
+    type="text/javascript">
+</script>
+<!-- SAPE RTB END --> 
+
+
+
+ 
+
+
+             
+
+
+
+  
+    
+          
+
+
+  
+    
+    
+    
+    
+      
+    
+    
+    
+      
+    
+
+    
+    
+     
+    
+    
+
+
+
+  
+
+
+     
+<meta charset="utf-8">
+<title>Nagateno.Com</title>
+<meta name="description" content="Это мультимедийный социальный развлекательный сервис с обширным каталогом легальной музыки, электронных книг, видео, игр и софта.   Для Всех и На Всём Nagateno.Com !">
+<meta name="keywords" content="Приложения, Программы, Софт, Скачать, Бесплатно для Браузера, Windows, Android, Mac, Iphone, Ubuntu и других. Скачивайте программы и приложения, делитесь впечатлениями, скриншотами и т.д. с другими пользователями. Скачивай, открывай новое, делись с друзьями - nStore. nStore, скачать, скачать бесплатно, программы, на русском, скачать программы, последняя версия. ,Нагатино, нагатено, спорт, онлайн, музыка, видео, скачать, софт, программы, приложения, бесплатно, поиск, телевизор, радио, скрипты, фото, галерея, мобильный, смарт, карты, операционная система, web os, nagateno, nagaten0">
+<meta name="generator" content="DataLife Engine (http://dle-news.ru)">
+<link rel="search" type="application/opensearchdescription+xml" href="http://nagateno.com/index.php?do=opensearch" title="Nagateno.Com">
+<link rel="canonical" href="http://nagateno.com//">
+<link rel="alternate" type="application/rss+xml" title="" href="http://nagateno.com//rss.xml">
+<link href="/engine/classes/min/index.php?charset=utf-8&amp;f=engine/editor/css/default.css&amp;v=24" rel="stylesheet" type="text/css">
+<script src="/engine/classes/min/index.php?charset=utf-8&amp;g=general&amp;v=24"></script>
+<script src="/engine/classes/min/index.php?charset=utf-8&amp;f=engine/classes/js/jqueryui.js,engine/classes/js/dle_js.js&amp;v=24" defer></script>
+<style>
+body {
+  margin: 0;
+  background-color: #f1f1f1;
+}
+
+#navbar {
+  background-color: #333;
+  position: fixed;
+  top: -50px;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+#navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+</style>
+
+
+
+<style>
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+    
+    
+    
+    
+</style>
+
+
+ 
+
+
+<style>     
+   .leftstr, .rightstr {
+    float: left; /* Обтекание справа */ 
+    width: 50%; /* Ширина текстового блока */   
+   }
+   .rightstr {
+    text-align: right; /* Выравнивание по правому краю */ 
+   }   
+    
+   img {
+    border-radius: 4%;
+} 
+ .responsive {
+    width: 100%;
+    height: auto;
+}  
+    
+</style> 
+    
+    
+<style> 
+
+.modal {
+  background: #fff;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  transition: all 600ms cubic-bezier(0.86, 0, 0.07, 1);
+  top: 100%;
+  position: fixed;
+  left: 0;
+  text-align: left;
+}
+.modal .header {
+  padding: 20px;
+  border-bottom: 1px solid #ddd;
+  font: 300 24px Lato;
+  position: relative;
+}
+.modal .body {
+  padding: 20px;
+  font: 300 16px Lato;
+}
+
+
+.container15.modal-open .modal {
+  top: 0;
+}
+.container14.modal-open .modal {
+  top: 0;
+}
+.container13.modal-open .modal {
+  top: 0;
+}
+.container12.modal-open .modal {
+  top: 0;
+}
+.container1.modal-open .modal {
+  top: 0;
+}
+.container.modal-open .modal {
+  top: 0;
+}
+
+</style>  
+    
+      
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+.col-container {
+    display: table;
+    width: 100%;
+}
+.col {
+    display: table-cell;
+    padding: 16px;
+}
+
+@media only screen and (max-width: 600px) {
+    .col { 
+        display: block;
+        width: 100%;
+    }
+}
+</style>
+
+
+
+
+
+
+
+<!-- Прозрачность изображений
+
+<style>
+      img {
+        float: left;
+        margin-right: 5px;
+        opacity: 0.4;
+        filter: alpha(opacity=40); /*для IE8 и более ранних версий*/
+      }
+      img:hover {
+        opacity: 1.0;
+        filter: alpha(opacity=100);
+      }
+    </style>
+
+-->     
+    
+
+    
+ <style>		
+.button_gray {margin: 0px 10px;}  
+.button_gray {text-align: center;-webkit-border-radius: 2px;-khtml-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;display: inline-block;*display: inline;position: relative;line-height: normal;zoom: 1;}  
+.button_gray {margin: 2px 5px;}  
+.button_gray button {border: 1px solid;background: none;font-size: 11px;margin: 0px;cursor: pointer;white-space: nowrap;outline: none;padding: 4px 14px;*padding: 5px 15px 3px;font-family: tahoma, arial, verdana, sans-serif, Lucida Sans;overflow: visible;}  
+.font_medium .button_gray button {font-size: 12px;}  
+.button_gray button::-moz-focus-inner {border: 0;}  
+.button_gray {border: 1px solid #b3b3b3;background: #e0e0e0;}  
+.button_gray button {border-top-color: #ffffff;border-bottom-color: #e5e5e5;border-left-color: #e7e7e7;border-right-color: #e7e7e7;color: #444;text-shadow:0 1px 0 #ffffff;*border: 0;background: url() #dddddd repeat-x top;background-position: 0px -54px;}  
+.button_gray button:hover {background-position: 0px -46px;}  
+.button_gray button:active {background: #dcdcdc;border: 1px solid #dcdcdc;position:relative;}  
+.button_gray {background: url('') center no-repeat;}  
+a.button_gray:hover {text-decoration: none;}  
+/* Серый вид кнопки как в "В контакте" для uCoz  */  
+
+
+/* Вид кнопки как "В контакте"  */  
+.button_blue{text-align: center;-webkit-border-radius: 2px;-khtml-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;display: inline-block;*display: inline;position: relative;line-height: normal;zoom: 1;}  
+.button_blue button {border: 1px solid;background: none;font-size: 11px;margin: 0px;cursor: pointer;white-space: nowrap;outline: none;padding: 4px 14px;*padding: 5px 15px 3px;font-family: tahoma, verdana, arial, sans-serif, Lucida Sans;overflow: visible;}  
+.button_blue button::-moz-focus-inner, .button_gray button::-moz-focus-inner {border: 0;}  
+.button_blue {border: 1px solid #4e6f93;border-top-color: #517295;background: #5D81A7;}  
+.button_blue button {border-top-color: #789ABF;border-bottom-color: #5980A9;border-left-color: #5980A9;border-right-color: #5980A9;color: #FFF;text-shadow:0 1px 0 #45688E;*border: 0;background: url() #6181a6 repeat-x top;background-position: 0px -16px;*background-position: 0px -16px;}  
+.button_blue button:hover, .button_blue button.hover {background-position: 0px -8px;}  
+.button_blue button:active, .button_blue button.active {background: #5e80a5;border: 1px solid #5e80a5;position:relative;}  
+/* Вид кнопки как "В контакте"  */  
+     
+     
+   
+     
+     
+ ::-webkit-scrollbar{
+    width:0px;
+    axis:"x" // horizontal scrollbar
+}
+     
+::-webkit-scrollbar-thumb{
+    border-width:1px 1px 1px 2px;
+    border-color: #777;
+    background-color: #aaa;
+}
+     
+::-webkit-scrollbar-thumb:hover{
+    border-width: 1px 1px 1px 2px;
+    border-color: #555;
+    background-color: #777;
+}
+     
+::-webkit-scrollbar-track{
+    border-width:0;
+}
+     
+::-webkit-scrollbar-track:hover{
+    border-left: solid 1px #aaa;
+    background-color: #eee;
+}     
+
+</style>   
+    
+    
+    
+    
+    
+
+	
+	
+	
+	
+	
+
+<style>
+.myViewLinks {
+display: none;
+}
+</style>
+    
+    
+    
+    
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 14px;
+  border: none;
+  outline: none;
+  background-color: #333;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+</style>
+
+
+
+
+
+
+
+
+
+<style>
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+</style>
+
+
+
+
+
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+
+/* Center the image and position the close button */
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+
+img.avatar {
+    width: 40%;
+    border-radius: 50%;
+}
+
+.container {
+    padding: 10px;
+}
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    padding-top: -10px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 1% auto 1% auto; /* 5% from the top, 15% from the bottom and centered */
+    border: 1px solid #888;
+     width: 55%; /* Could be more or less, depending on screen size */ 
+  
+    
+    padding-top: -10px; 
+}
+
+/* The Close Button (x) */
+.close {
+    position: absolute;
+    right: 4px;
+    top: -27;
+    color: #000;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: red;
+    cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+    -webkit-animation: animatezoom 0.6s;
+    animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+    from {-webkit-transform: scale(0)} 
+    to {-webkit-transform: scale(1)}
+}
+    
+@keyframes animatezoom {
+    from {transform: scale(0)} 
+    to {transform: scale(1)}
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+       width: 100%;
+    }
+}
+</style>
+
+
+
+ <style>
+body {margin:0;font-family:Arial}
+
+.topnav2 {
+  overflow: hidden;
+  background-color: #F7F7F7;
+}
+
+.topnav2 a {
+  float: left;
+  display: block;
+  color: #949494;
+  text-align: center;
+  padding: 6px 6px;
+  text-decoration: none;
+  font-size: 11px;
+}
+
+.active2 {
+  background-color: #F7F7F7;
+  color: #333;
+}
+
+.topnav2 .icon {
+  display: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 11px;    
+    border: none;
+    outline: none;
+    color: #949494;
+    padding: 4px 6px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 8px 8px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.topnav2 a:hover, .dropdown:hover .dropbtn {
+  background-color: #555;
+  color: white;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav2 a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav2 a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav2.responsive {position: relative;}
+  .topnav2.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav2.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav2.responsive .dropdown {float: none;}
+  .topnav2.responsive .dropdown-content {position: relative;}
+  .topnav2.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+</style>
+
+ <!-- 
+☰ ☭ ☨ ☦ ☣ ☢ ☡ ☠ ☟ ☞ ☜ ☛ ☘ ☗ ☓ ☒ ☑ ☐ ☏ ☎ ☍ 
+☊ ☉ ☈ ☇ ☆ ★ ☄ ☂ ☁ ☀ ◿ ◼ ◻ ◺◹ ◸ ◷ ◶ ◵ ◴ ◳ 
+◲ ◱ ◰ ◯ ◮ ◫ ◪ ◨ ◦ ◥ ◤ ◣ ◢ ◡ ◙ ◕ ◔ ◓ ● ◎ ◍ 
+◌ ◊ ◉ ◈ ◄ ◂ ◁ ◀ ▻ ► ▹ ▸ ▷ ▶ ▱ ▰ ▯ ▮ ▭ ▬ ▪
+▩ ▨ ▦ ▥ ▤ ▣ ▢ ▟ ▞ ▝ ▜ ▛ ▕▌ ╳ ╬ ╧ ࿃ ࿄ 
+
+
+࿃ ᎒ ↕ ↪ ↯ ⇦ ⇤ ⇌ ⇆ ↺ ↹ ⇪ ⇲ ⌕
+⌗ ⌙ ⌦ ⌧ ⌨ ⌯ ⍟ ⎗ ⎘ ⎙ ⎚⏍↗
+Ⓝ Ⓧ ☱ ☲ ☷ ☵ ☸ ♔ ♕ ♖ ♗ ♘
+
+
+
+-->
+
+
+
+<div class="topnav2" id="mytopnav2">
+  <a href="http://nagateno.com/" target="_self" class="active2" title="  " >  ←  </a>
+ 
+   
+    
+<a href="/app/" target="_self">  Приложения</a>   
+<a href="http://nagateno.com/1xbet/3393-1xbet.html" target="_blank">  Букмейкер </a>    
+<a href="/shop/" target="_self">  Магазины</a>          
+<a href="/slots/" target="_self">  Казино </a>
+<a href="/music/" target="_self">  Музыка</a>      
+<a href="http://nagateno.com/radio.html" target="_self">  Радио</a>        
+<a href="/game/" target="_self">  Игры</a>
+<a href="/cinema/" target="_self">  Кино </a>
+<a href="/soft/" target="_self">  Софт</a>
+<a href="/tv/" target="_self">  ТВ </a>               
+    
+     <a href="javascript:void(0);" onclick="fullScreen('');"> ◉ </a>    
+   
+ 
+
+<div class="dropdown">
+<button class="dropbtn"> ⇲ </button>
+<div class="dropdown-content">
+<a href="http://nagateno.com/"  target="_self">Главная страница</a>
+<a href="/app/" target="_self">  Приложения</a>   
+<a href="http://nagateno.com/1xbet/3393-1xbet.html" target="_blank">  Букмейкер </a>    
+<a href="/shop/" target="_self">  Магазины</a>          
+<a href="/slots/" target="_self">  Казино </a>
+<a href="/music/" target="_self">  Музыка</a>      
+<a href="http://nagateno.com/radio.html" target="_self">  Радио</a>        
+<a href="/game/" target="_self">  Игры</a>
+<a href="/cinema/" target="_self">  Кино </a>
+<a href="/soft/" target="_self">  Софт</a>
+<a href="/tv/" target="_self">  ТВ </a>  
+</div>
+</div>
+    
+    
+ 
+  
+<a href="javascript:void(0);" style="font-size:17px;" class="icon" onclick="myFunction2()">  &#9776;  </a>
+</div>
+
+
+
+
+<!-- 
+<div style="padding-left:16px">
+  <h2>Responsive topnav2 with Dropdown</h2>
+  <p>Resize the browser window to see how it works.</p>
+  <p>Hover over the dropdown button to open the dropdown menu.</p>
+</div>
+-->
+
+
+
+<script>
+function myFunction2() {
+    var x = document.getElementById("mytopnav2");
+    if (x.className === "topnav2") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav2";
+    }
+}
+</script>
+
+
+<div id="spoilerid1audio222144" class="text_spoiler" style="display: none;">
+<!-- ya Widget -->    
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script src="//yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-services="vkontakte,facebook,gplus,odnoklassniki,moimir,whatsapp,twitter,blogger,collections,digg,evernote,linkedin,lj,telegram,tumblr,viber,skype" data-limit="9"></div>   
+<!-- ya Widget -->
+    
+ <div style="border-top: 1px dotted #F7F7F7; margin: 3px 0;"></div>        
+    
+<!-- VK Widget -->    
+<script type="text/javascript" src="https://vk.com/js/api/openapi.js?159"></script>
+<!-- VK Widget -->
+    
+<!-- VK Widget -->    
+<div id="vk_allow_messages_from_community"></div>
+<script type="text/javascript">
+VK.Widgets.AllowMessagesFromCommunity("vk_allow_messages_from_community", {height: 22}, 21596885);
+</script>   
+<!-- VK Widget -->    
+    
+ <div style="border-top: 1px dotted #F7F7F7; margin: 3px 0;"></div>        
+    
+<!-- VK Widget -->
+<div id="vk_subscribe"></div>
+<script type="text/javascript">
+VK.Widgets.Subscribe("vk_subscribe", {mode: 2, soft: 1}, -21596885);
+</script>
+<!-- VK Widget -->
+    
+    
+</div>
+
+
+
+<div id="spoilerid1audio222144opisanie" class="text_spoiler" style="display: none;">
+
+<div style="padding:10px;">   
+<div class="desc"></div>     
+<div style="border-top: 1px dotted #F7F7F7; margin: 3px 0;"></div>        
+<font style="color:#;font-size:8pt;">   
+<div><span id="dle-speedbar"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://nagateno.com/" itemprop="url"><span itemprop="title">Nagateno.Com</span></a></span></span></div>  
+<div style="border-top: 1px dotted #F7F7F7; margin: 3px 0;"></div>     
+
+</div>                             
+    
+    
+</div>
+    
+    <div id="spoilerid1audio222144fav" class="text_spoiler" style="display: none;">
+
+
+<div style="background: none repeat scroll 0% 0% rgb(245, 245, 245); margin: -5px -5px 5px; padding: 5px;"><span style="font-family: 'Segoe Ui','Tahoma';font-size:8pt;color:#3d3d3d;">Показано закладок 90 из 50</span></div><div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3371"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3371" href="?do=favorites&doaction=del&id=3371"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3371', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3371">ZAYCEV NET</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2891"><img src="/templates/N/dleimages/spoiler-plus.gif" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2891" href="?do=favorites&doaction=del&id=2891"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2891', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2891">АДМИРАЛ 777</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2704"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2704" href="?do=favorites&doaction=del&id=2704"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2704', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2704">МАТЧ ТВ</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3164"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3164" href="?do=favorites&doaction=del&id=3164"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3164', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3164">Print Bar</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2945"><img src="/templates/N/dleimages/spoiler-plus.gif" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2945" href="?do=favorites&doaction=del&id=2945"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2945', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2945">REG.RU</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2328"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2328" href="?do=favorites&doaction=del&id=2328"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2328', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2328">Pixlr Editor</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2962"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2962" href="?do=favorites&doaction=del&id=2962"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2962', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2962">Навигатор</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2430"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2430" href="?do=favorites&doaction=del&id=2430"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2430', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2430">Pixlr Express</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2939"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2939" href="?do=favorites&doaction=del&id=2939"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2939', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2939">Adidas</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3517"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3517" href="?do=favorites&doaction=del&id=3517"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3517', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3517">СВОЕ FM</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3363"><img src="/templates/N/dleimages/spoiler-plus.gif" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3363" href="?do=favorites&doaction=del&id=3363"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3363', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3363">VK AUDIO</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2828"><img src="/uploads/posts/2017-06/1496470093_11.png" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2828" href="?do=favorites&doaction=del&id=2828"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2828', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2828">3DNews - Daily Digit...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3555"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3555" href="?do=favorites&doaction=del&id=3555"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3555', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3555">Innocence</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3549"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3549" href="?do=favorites&doaction=del&id=3549"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3549', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3549">Мстители</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3160"><img src="/uploads/posts/2017-06/1497177476_riot-logo-png8.png" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3160" href="?do=favorites&doaction=del&id=3160"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3160', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3160">Наемники</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3150"><img src="/uploads/posts/2017-06/1497176663_logo.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3150" href="?do=favorites&doaction=del&id=3150"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3150', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3150">Битва Танков</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3147"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3147" href="?do=favorites&doaction=del&id=3147"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3147', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3147">Моя Ферма</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2734"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2734" href="?do=favorites&doaction=del&id=2734"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2734', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2734">Unchecky</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2348"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2348" href="?do=favorites&doaction=del&id=2348"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2348', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2348">Microsoft Office 365</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2618"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2618" href="?do=favorites&doaction=del&id=2618"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2618', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2618">Uptodown</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2623"><img src="/uploads/posts/2017-05/1496092793_0236bafb47ef52c41a71_256x256c.png" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2623" href="?do=favorites&doaction=del&id=2623"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2623', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2623">ОРТ</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2316"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2316" href="?do=favorites&doaction=del&id=2316"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2316', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2316">SOUND CLOUD</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3427"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3427" href="?do=favorites&doaction=del&id=3427"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3427', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3427">System Scanner</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3410"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3410" href="?do=favorites&doaction=del&id=3410"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3410', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3410">SUPER 7 STARS</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3344"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3344" href="?do=favorites&doaction=del&id=3344"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3344', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3344">1XСТАВКА</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2817"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2817" href="?do=favorites&doaction=del&id=2817"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2817', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2817">Онлайн Радио</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2930"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2930" href="?do=favorites&doaction=del&id=2930"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2930', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2930">Vse Mayki</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3346"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3346" href="?do=favorites&doaction=del&id=3346"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3346', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3346">Wild Terra Online</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2838"><img src="/uploads/posts/2016-08/thumbs/1471072713_1.png" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2838" href="?do=favorites&doaction=del&id=2838"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2838', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2838">Портфолио Nagateno.C...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3135"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3135" href="?do=favorites&doaction=del&id=3135"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3135', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3135">Едадил</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2885"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2885" href="?do=favorites&doaction=del&id=2885"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2885', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2885">Центр статистики - Р...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2904"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2904" href="?do=favorites&doaction=del&id=2904"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2904', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2904">Поиск Торрентов</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3309"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3309" href="?do=favorites&doaction=del&id=3309"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3309', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3309">GamePix</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2516"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2516" href="?do=favorites&doaction=del&id=2516"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2516', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2516">PacoGames</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2642"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2642" href="?do=favorites&doaction=del&id=2642"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2642', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2642">Spil Games</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2895"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2895" href="?do=favorites&doaction=del&id=2895"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2895', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2895">Браузерные игры - Ga...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3016"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3016" href="?do=favorites&doaction=del&id=3016"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3016', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3016">Sega Mega Drive Онла...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3137"><img src="/uploads/posts/2017-06/1496501601_got8ipcjgzu.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3137" href="?do=favorites&doaction=del&id=3137"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3137', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3137">Музыка Вконтакте - T...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2647"><img src="/uploads/posts/2015-10/thumbs/1445954975_facebook_app_logo_sports.png" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2647" href="?do=favorites&doaction=del&id=2647"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2647', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2647">Sports.Ru</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3475"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3475" href="?do=favorites&doaction=del&id=3475"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3475', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3475">ФИЛЬМЫ</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3129"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3129" href="?do=favorites&doaction=del&id=3129"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3129', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3129">Решала</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3117"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3117" href="?do=favorites&doaction=del&id=3117"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3117', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3117">Подпишитесь к Nagate...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=3107"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3107" href="?do=favorites&doaction=del&id=3107"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3107', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=3107">Web Media Center</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2486"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2486" href="?do=favorites&doaction=del&id=2486"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2486', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2486">1+1</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2221"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2221" href="?do=favorites&doaction=del&id=2221"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2221', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2221">Криминальная Россия</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=1288"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-1288" href="?do=favorites&doaction=del&id=1288"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('1288', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=1288">Белое солнце пустыни</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2964"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2964" href="?do=favorites&doaction=del&id=2964"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2964', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2964">Тройка - Пополнить о...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2325"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2325" href="?do=favorites&doaction=del&id=2325"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2325', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2325">Pro-TV</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2937"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2937" href="?do=favorites&doaction=del&id=2937"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2937', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2937">Новости Дня</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="/index.php?newsid=2454"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2454" href="?do=favorites&doaction=del&id=2454"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2454', 'minus');show();"></a>
+<b>
+<a href="/index.php?newsid=2454">Best Maps</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+                  
+    
+    
+</div>  
+    
+    
+    
+    
+<div id="spoilerid1audio222144mail" class="text_spoiler" style="display: none;">
+
+ Наша почта : <b>mail@nagateno.com  </b>
+    
+</div>  
+    
+    
+    
+ <div id="spoilerid1audio222144login" class="text_spoiler" style="display: none;">
+
+<div style="padding:0px;">       
+
+ 
+
+<div class="col-container">
+  <div class="col" style="background:">
+    <h2>Профиль</h2>
+
+<p><a href="http://nagateno.com/cp.php?mod=main" target="_blank">Админпанель</a></p>
+
+<p><a href="http://nagateno.com/user/Nagateno/">Мой профиль</a></p>
+<p><a href="http://nagateno.com/index.php?do=pm">Мои сообщения (0 | 0)</a></p>
+<p><a href="javascript:ShowOrHide('spoilerid1audio222144fav')">Мои закладки    <font style="background-color:#E75719;color:#FFFFFF;font-size:7pt;padding: 4px;"> 90 </font> </a>  </p>
+<p><a href="http://nagateno.com/statistics.html">Моя статистика</a></p>
+<p><a href="http://nagateno.com/index.php?do=search">Поиск</a></p>
+ <p><a href="https://nagateno.push4site.com/Sdk/SubscriptionSettings" target="blank">Подписатся</a></p>
+<p><a href="http://nagateno.com/index.php?action=logout">Выход</a></p>
+  </div>
+
+  <div class="col" style="background:">
+    <h2>Сервисы</h2>
+    <p>Hello World!</p>
+    <p>Hello World!</p>
+    <p>Hello World!</p>
+    <p>Hello World!</p>
+  </div>
+
+  <div class="col" style="background:">
+    <h2>Статистика</h2>
+<script type="text/javascript" src="/engine/skins/default.js"></script>
+<style type="text/css">
+.online_robot{color:gray; cursor:pointer;} /*настраиваем цвет поисковых роботов*/
+.online_guest{color:blue; cursor:pointer;} /*настраиваем цвет гостей*/
+.online_user, .online_user:visited, .online_user:hover{color:white;text-decoration:none;font-weight:bold;} /*настраиваем цвет посетителей*/
+.group_1, .group_1:visited, .group_1:hover{color:red}/*настраиваем цвет группы 1 (админ)*/
+.group_2, .group_2:visited, .group_2:hover{color:blue}/*настраиваем цвет группы 2 (главный редактор)*/
+.group_3, .group_3:visited, .group_3:hover{color:green}/*настраиваем цвет группы 3 (журналист)*/
+.group_4, .group_3:visited, .group_4:hover{color:gray}/*настраиваем цвет группы 4 (обычные юзеры)*/
+.group_6, .group_6:visited, .group_6:hover{color:#FFCC33}/*настраиваем цвет группы 6 (VIP)*/
+.group_7, .group_7:visited, .group_7:hover{color:gray}/*настраиваем цвет группы 7 (роботы)*/
+.foto {float:left; width:100px; height:100px; margin-right:7px;}
+</style>
+<div class="whoonline" >
+Кто онлайн : <b>1 - <a class="online_user group_1" onmouseover="showhint('<img src=/uploads/fotos/foto_1.png class=foto /> Ник: Nagateno<br> Группа: Администрация<br>ОС: �����������<br>Браузер: Chrome 71.0.3578.98<br>Был здесь в: 22:07:24<br>', this, event, '270px');" href="javascript://" onclick="ShowProfile('Nagateno', ''); return false;" href="/">Nagateno</a>, </b> <br> Всего на сайте : <b>1</b> <br> Всего гостей : <b>0</b> <br> Поисковые роботы :<b> 0</b>
+</div>
+      <p>Hello World!</p>
+      
+      
+  </div>
+</div>
+
+<script type="text/javascript">
+function showUserFavs() {
+$(function(){
+$('#ufavs').dialog({
+autoOpen: true,
+show: 'fade',
+hide: 'fade',
+width: 700,
+height: 550,
+});
+$('#ufavs').css('overflow','auto');
+});
+}
+</script>
+    
+<div id="ufavs" title="Мои закладки" style="display:none"><div style="background: none repeat scroll 0% 0% rgb(245, 245, 245); margin: -5px -5px 5px; padding: 5px;"><span style="font-family: 'Segoe Ui','Tahoma';font-size:8pt;color:#3d3d3d;">Показано закладок 90 из 50</span></div><div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3371"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3371" href="?do=favorites&doaction=del&id=3371"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3371', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3371">ZAYCEV NET</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2891"><img src="/templates/N/dleimages/spoiler-plus.gif" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2891" href="?do=favorites&doaction=del&id=2891"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2891', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2891">АДМИРАЛ 777</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2704"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2704" href="?do=favorites&doaction=del&id=2704"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2704', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2704">МАТЧ ТВ</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3164"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3164" href="?do=favorites&doaction=del&id=3164"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3164', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3164">Print Bar</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2945"><img src="/templates/N/dleimages/spoiler-plus.gif" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2945" href="?do=favorites&doaction=del&id=2945"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2945', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2945">REG.RU</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2328"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2328" href="?do=favorites&doaction=del&id=2328"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2328', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2328">Pixlr Editor</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2962"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2962" href="?do=favorites&doaction=del&id=2962"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2962', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2962">Навигатор</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2430"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2430" href="?do=favorites&doaction=del&id=2430"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2430', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2430">Pixlr Express</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2939"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2939" href="?do=favorites&doaction=del&id=2939"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2939', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2939">Adidas</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3517"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3517" href="?do=favorites&doaction=del&id=3517"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3517', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3517">СВОЕ FM</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3363"><img src="/templates/N/dleimages/spoiler-plus.gif" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3363" href="?do=favorites&doaction=del&id=3363"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3363', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3363">VK AUDIO</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2828"><img src="/uploads/posts/2017-06/1496470093_11.png" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2828" href="?do=favorites&doaction=del&id=2828"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2828', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2828">3DNews - Daily Digit...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3555"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3555" href="?do=favorites&doaction=del&id=3555"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3555', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3555">Innocence</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3549"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3549" href="?do=favorites&doaction=del&id=3549"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3549', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3549">Мстители</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3160"><img src="/uploads/posts/2017-06/1497177476_riot-logo-png8.png" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3160" href="?do=favorites&doaction=del&id=3160"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3160', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3160">Наемники</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3150"><img src="/uploads/posts/2017-06/1497176663_logo.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3150" href="?do=favorites&doaction=del&id=3150"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3150', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3150">Битва Танков</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3147"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3147" href="?do=favorites&doaction=del&id=3147"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3147', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3147">Моя Ферма</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2734"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2734" href="?do=favorites&doaction=del&id=2734"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2734', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2734">Unchecky</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2348"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2348" href="?do=favorites&doaction=del&id=2348"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2348', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2348">Microsoft Office 365</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2618"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2618" href="?do=favorites&doaction=del&id=2618"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2618', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2618">Uptodown</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2623"><img src="/uploads/posts/2017-05/1496092793_0236bafb47ef52c41a71_256x256c.png" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2623" href="?do=favorites&doaction=del&id=2623"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2623', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2623">ОРТ</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2316"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2316" href="?do=favorites&doaction=del&id=2316"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2316', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2316">SOUND CLOUD</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3427"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3427" href="?do=favorites&doaction=del&id=3427"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3427', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3427">System Scanner</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3410"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3410" href="?do=favorites&doaction=del&id=3410"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3410', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3410">SUPER 7 STARS</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3344"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3344" href="?do=favorites&doaction=del&id=3344"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3344', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3344">1XСТАВКА</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2817"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2817" href="?do=favorites&doaction=del&id=2817"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2817', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2817">Онлайн Радио</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2930"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2930" href="?do=favorites&doaction=del&id=2930"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2930', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2930">Vse Mayki</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3346"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3346" href="?do=favorites&doaction=del&id=3346"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3346', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3346">Wild Terra Online</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2838"><img src="/uploads/posts/2016-08/thumbs/1471072713_1.png" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2838" href="?do=favorites&doaction=del&id=2838"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2838', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2838">Портфолио Nagateno.C...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3135"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3135" href="?do=favorites&doaction=del&id=3135"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3135', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3135">Едадил</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2885"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2885" href="?do=favorites&doaction=del&id=2885"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2885', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2885">Центр статистики - Р...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2904"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2904" href="?do=favorites&doaction=del&id=2904"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2904', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2904">Поиск Торрентов</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3309"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3309" href="?do=favorites&doaction=del&id=3309"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3309', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3309">GamePix</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2516"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2516" href="?do=favorites&doaction=del&id=2516"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2516', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2516">PacoGames</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2642"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2642" href="?do=favorites&doaction=del&id=2642"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2642', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2642">Spil Games</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2895"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2895" href="?do=favorites&doaction=del&id=2895"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2895', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2895">Браузерные игры - Ga...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3016"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3016" href="?do=favorites&doaction=del&id=3016"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3016', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3016">Sega Mega Drive Онла...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3137"><img src="/uploads/posts/2017-06/1496501601_got8ipcjgzu.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3137" href="?do=favorites&doaction=del&id=3137"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3137', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3137">Музыка Вконтакте - T...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2647"><img src="/uploads/posts/2015-10/thumbs/1445954975_facebook_app_logo_sports.png" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2647" href="?do=favorites&doaction=del&id=2647"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2647', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2647">Sports.Ru</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3475"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3475" href="?do=favorites&doaction=del&id=3475"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3475', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3475">ФИЛЬМЫ</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3129"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3129" href="?do=favorites&doaction=del&id=3129"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3129', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3129">Решала</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3117"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3117" href="?do=favorites&doaction=del&id=3117"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3117', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3117">Подпишитесь к Nagate...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=3107"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-3107" href="?do=favorites&doaction=del&id=3107"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('3107', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=3107">Web Media Center</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2486"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2486" href="?do=favorites&doaction=del&id=2486"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2486', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2486">1+1</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2221"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2221" href="?do=favorites&doaction=del&id=2221"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2221', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2221">Криминальная Россия</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=1288"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-1288" href="?do=favorites&doaction=del&id=1288"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('1288', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=1288">Белое солнце пустыни</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2964"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2964" href="?do=favorites&doaction=del&id=2964"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2964', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2964">Тройка - Пополнить о...</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2325"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2325" href="?do=favorites&doaction=del&id=2325"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2325', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2325">Pro-TV</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2937"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2937" href="?do=favorites&doaction=del&id=2937"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2937', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2937">Новости Дня</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+<div style="display:inline-block; width:300px; text-align:left; font-size:10px; margin-bottom:5px; color:#666;">
+<a class="lightbox" href="http://nagateno.com/index.php?newsid=2454"><img src="/templates/Social/dleimages/no_image.jpg" style="width:120px; height:80px; border:1px solid #EAEAEA; padding:1px; margin-right:3px; float:left;"></a>
+<a id="fav-id-2454" href="?do=favorites&doaction=del&id=2454"><img src="http://www.iconsearch.ru/uploads/icons/fatcow/32x32/bullet_toggle_minus.png" class="close" onclick="doFavorites('2454', 'minus');show();"></a>
+<b>
+<a href="http://nagateno.com/index.php?newsid=2454">Best Maps</a>
+</b>
+<br>
+...
+</div>
+<style>
+.close {
+    float: right;
+    opacity: 0.2;
+    position: relative;
+    right: 2px;
+}
+.close:hover {
+    opacity: 0.3;
+}
+</style>
+
+</div>
+</form>
+
+
+
+
+
+
+      
+</div>                             
+    
+    
+</div>    
+
+
+
+<iframe scrolling='no' frameBorder='0' style='padding:0px; margin:0px; border:0px;border-style:none;border-style:none;' width='100%' height='150' src="https://refpaoip.top/I?tag=s_22224m_14187c_&site=22224&ad=14187" ></iframe>
+
+
+     
+
+
+
+  
+ 
+    
+  
+
+ 
+
+
+
+
+
+
+<html lang="ru">
+    
+<head>
+
+   
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+        
+<meta name="theme-color" content="#333">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">              
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+<meta name="format-detection" content="telephone=no">
+        
+<meta name="verify-admitad" content="389464f91a" />
+<meta name="yandex-verification" content="d961cea71bb6f08c" />
+<meta name="google-site-verification" content="Vb_u5I2YcHZPl9RJvJTU172HBLJyaF0VVyfy3mvPdgU" />
+<meta name="yandex-verification" content="e075d5462f1705d8" />
+<meta name="wot-verification" content="0da670eebff1f073bac9"/>  
+    
+<link rel="stylesheet" href="/templates/N/index_files/index.css">    
+<link rel="stylesheet" href="/templates/N/css/" media="all">     
+<link href="/templates/N/css/engine.css" type="text/css" rel="stylesheet">    
+<link href="//nagateno.com/common.css?438" rel="stylesheet" type="text/css" />  
+    
+<script src="//nagateno.com/jquery-3.3.1.min.js"></script>  
+    
+    
+<!-- Add fancyBox3 -->
+<script src="//nagateno.com/jquery.fancybox.min.js?v=1532993238"></script>
+<link rel="stylesheet" type="text/css" href="//nagateno.com/jquery.fancybox.min.css?v=1532993238" media="screen" />
+<!-- Creative demos -->
+<script src="//nagateno.com/examples.js?v=1532993238"></script>
+<link rel="stylesheet" type="text/css" href="//nagateno.com/examples.css?v=1532993238" media="screen" />
+
+   
+<!--В head сайта один раз подключите библиотеку-->
+<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+   
+    
+
+  
+<!-- SAPE RTB JS -->
+<script
+    async="async"
+    src="//cdn-rtb.sape.ru/rtb-b/js/736/2/27736.js"
+    type="text/javascript">
+</script>
+<!-- SAPE RTB END -->   
+    
+    
+    
+<!-- ПРЕДЗАГРУЗКА ИЗОБРАЖЕНИЙ -->    
+<!--  
+ <script>
+ function imgLoaded(img){
+    var $img = $(img);
+ 
+    $img.parent().addClass('loaded');
+};   
+</script>
+ -->   
+    
+
+    
+    
+    
+    
+    
+<style>
+        .img_wrapper.loaded img{
+    opacity: 1;
+}
+    
+    .img_wrapper img{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    opacity: 0;
+ 
+    -webkit-transition: opacity 150ms;
+    -moz-transition: opacity 150ms;
+    -ms-transition: opacity 150ms;
+    transition: opacity 150ms;
+}
+</style>
+        
+        
+</head>
+    
+    
+    
+    
+  
+    
+ 
+    
+<body>
+    
+
+<script>
+<!--
+var dle_root       = '/';
+var dle_admin      = 'cp.php';
+var dle_login_hash = 'e00076bbe9eb6422c7cc23b4fed86b3f8944b1bd';
+var dle_group      = 1;
+var dle_skin       = 'N';
+var dle_wysiwyg    = '-1';
+var quick_wysiwyg  = '1';
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Сохранить", "Удалить", "Загрузка. Пожалуйста, подождите..."];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var dle_notice     = 'Уведомление автору';
+var dle_p_text     = 'Введите текст уведомления автору статьи, которое он получит персональным сообщением:';
+var dle_del_msg    = 'Да и отправить уведомление';
+var allow_dle_delete_news   = true;
+var dle_search_delay   = false;
+var dle_search_value   = '';
+jQuery(function($){
+FastSearch();
+});
+//-->
+</script>   
+
+   
+
+    
+        
+         
+        
+<div class="root"> 
+<div class="sidebar"> 
+<div class="top"> 
+    
+    
+    
+    
+  <!-- ЛЕВАЯ СТОРОНА ВВЕРХ -->  
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+    
+ 
+
+
+
+
+
+ 
+   
+
+    
+  
+    
+    
+    
+          
+
+    
+    
+    
+
+
+  
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+     
+ 
+    
+    
+   
+  
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+
+
+         
+    
+<div class="lang" tabindex="0">
+<span> Все разделы </span>
+<div id="lang_menu" class="sub_menu"> 
+<div class="frame">
+<a href="/app/" target="_blank" ><div class="p">  Приложения </div></a> 
+<a href="/1xbet/3393-1xbet.html" target="_blank" ><div class="p">  Букмейкер </div></a>    
+<a href="/casino/" target="_blank" ><div class="p"> Казино </div></a>    
+<a href="/music/" target="_blank" ><div class="p"> Музыка </div></a> 
+<a href="/radio.html" target="_blank" ><div class="p"> Радио </div></a>    
+<a href="/cinema/" target="_blank" ><div class="p">  Кино </div></a> 
+<a href="/game/" target="_blank" ><div class="p">  Игры </div></a> 
+<a href="/soft/" target="_blank" ><div class="p">  Софт </div></a>        
+<a href="/tv/" target="_blank" ><div class="p">  Телевизор </div></a> 
+<a href="/shop/" target="_blank" ><div class="p">  Магазины </div></a> 
+<a href="https://www.reg.ru/?rlink=reflink-25495" target="_blank" ><div class="p"> Хостинг </div></a> 
+<a href="/shop/2945-regru-hosting-1.html" target="_blank" ><div class="p"> Одежда </div></a>    
+<a href="http://nagateno.com/" target="_blank" ><div class="p"> ←  На главную </div></a> </div> 
+</div>
+</div>
+                    
+<div class="clear"></div> 
+  
+
+       
+
+
+
+   
+ 
+<div style="border-top: 1px dotted #F7F7F7; margin: 0px 0;"></div>    
+    
+</div>  
+   
+    
+<div class="bottom">
+
+
+       
+    
+    
+ <!-- SAPE RTB DIV 240x400 #1 ← ◕ ᴴᴰ ♫ @ √ ★ † $ © ☺ ✈ →★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★-->
+<div id="SRTB_82909"></div>
+<!-- SAPE RTB END ← ◕ ᴴᴰ ♫ @ √ ★ † $ © ☺ ✈ → ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★-->     
+    
+ <div style="border-top: 1px dotted #F7F7F7; margin: 25px 0;"></div>         
+  
+<center>    
+<a href="http://www.copyscape.com/"><img src="http://banners.copyscape.com/img/copyscape-stamp-gray-90x90.png" width="90" height="90" border="0" alt="Protected by Copyscape" title="Protected by Copyscape Plagiarism Checker - Do not copy content from this page." /></a>  <div style="border-top: 1px dotted #F7F7F7; margin: 10px 0;"></div>         
+</center>  
+    
+
+    
+<div style="border-top: 1px dotted #F7F7F7; margin: 5px 0;"></div>                 
+<!-- Модальные окна -->  
+
+    <!-- ← ◕ ᴴᴰ ♫ @ √ ★ † $ © ☺ ✈ →  Загрузка… ████[][][][][][] 40% -->     
+
+<font style="border: 10px;border-color:#000;background-color:#F7F7F7;color:#949494;font-size:7pt;padding: 1px; width: %; height: 25px;"> ИНФОРМАЦИЯ | КОНТАКТЫ </font> 
+<div style="border-top: 1px dotted #F7F7F7; margin: 5px 0;"></div>                 
+
+<div class="contact"> Почта : <a href="mailto:nagaten0@yandex.ru?subject=Nagateno.Com">написать нам</a></div>     
+<div class="anchors"><a target="" href="#"> На верх страницы </a></div> 
+    
+ <div style="border-top: 1px dotted #F7F7F7; margin: 1px 0;"></div>         
+    
+<div class="anchors"><a target="" href="#"> 
+    <b>+18</b>
+</a></div>    
+  <br><br>
+    
+  
+    
+</div>       
+</div> 
+    
+     
+    
+       
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+   
+
+    
+    
+    
+
+    
+    
+    
+    
+    
+        
+    
+    
+    
+    
+    
+            
+ 
+    
+   
+    
+    
+    
+    
+    
+    
+    
+    
+       
+    
+    
+    
+      
+    
+    
+    
+             
+    
+    
+     
+    
+                
+    
+
+    
+       
+    
+    
+        
+    
+     
+    
+ 
+       
+    
+    
+        
+         
+   
+      
+    
+   
+
+
+  
+
+<!-- МОБИЛЬНАЯ ВЕРСИЯ НИЗ-->    
+<div class="mobile_footer"> 
+<div class="contact">      
+     <!-- Поиск ← ◕ ᴴᴰ ♫ @ √ ★ † $ © ☺ ✈ → -->
+<form style="width: 100%" id="q_search" class="top-search-box" method="post">					
+<input class="top-search-box"  style="border:0px; border-color:#F7F7F7;background-color:#;color:#;font-size:8pt;padding: 0px; width: 90%; height: 30px;"  id="story" name="story" placeholder=" Поиск по названию ... " type="search">
+<input type="hidden" name="do" value="search">
+<input type="hidden" name="subaction" value="search">
+</form>
+<!-- / Поиск -->   
+    
+    <div style="border-top: 1px dotted #F7F7F7; margin: 3px 0;"></div>    
+    
+<div class="lang_row">
+<select name="forma" onchange="location = this.value;" style="border-color:#ddd;background-color:#F7F7F7;color:#949494;font-size:8pt;padding: 0px; width: 92%; height: 25px;">
+<option value=""> ↑↓ Все разделы </option> 
+<option value="">  ↓  </option>
+<option value="/app/">  Приложения </option>
+<option value="/1xbet/3393-1xbet.html">  Букмейкер </option>    
+<option value="/casino/"> Казино </option>    
+<option value="/music/"> Музыка </option>
+<option value="/radio.html"> Радио </option>    
+<option value="/cinema/">  Кино </option>
+<option value="/game/">  Игры </option>
+<option value="/soft/">  Софт </option>        
+<option value="/tv/">  Телевизор </option>
+<option value="/shop/">  Магазины </option>
+<option value="https://www.reg.ru/?rlink=reflink-25495"> Хостинг </option>
+<option value="/shop/2945-regru-hosting-1.html"> Одежда </option>    
+<option value="">  ↓  </option>
+<option value="http://nagateno.com/"> ←  На главную </option>
+</select>    
+</div>      
+ <div class="contact">  
+    
+<div style="padding:10px;">   
+  
+<br>
+<center>       
+ <!-- SAPE RTB DIV 240x400 #1 ← ◕ ᴴᴰ ♫ @ √ ★ † $ © ☺ ✈ → ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★-->
+<div id="SRTB_82909"></div>
+<!-- SAPE RTB END ← ◕ ᴴᴰ ♫ @ √ ★ † $ © ☺ ✈ → ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★-->     
+</center>
+    
+<br>
+<div class="desc"></div>     
+<div style="border-top: 1px dotted #; margin: 3px 0;"></div>        
+<font style="color:#;font-size:5pt;">   
+<div><span id="dle-speedbar"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://nagateno.com/" itemprop="url"><span itemprop="title">Nagateno.Com</span></a></span></span></div>      
+<div style="border-top: 1px dotted #; margin: 3px 0;"></div>     
+
+    </font>
+</div>                    
+</div>       
+     
+    
+ </div> </div>       
+<!-- МОБИЛЬНАЯ ВЕРСИЯ НИЗ-->    
+            
+
+ 
+    
+
+
+                   
+      
+
+    
+    
+    
+
+     <!-- 
+      
+    <button onclick="topFunction()" id="myBtn">Наверх</button>
+    
+    -->   
+    
+    
+    
+    
+    <script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+</script>
+    
+
+    <!--Add directly after body tag-->
+
+<!-- Preloader -->
+<div id="preloader">
+    <div id="status">&nbsp;</div>
+</div>
+
+<!--Below jquery include-->
+
+<!-- Preloader -->
+<script type="text/javascript">
+    //<![CDATA[
+        $(window).load(function() { // makes sure the whole site is loaded
+            $('#status').fadeOut(); // will first fade out the loading animation
+            $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
+            $('body').delay(350).css({'overflow':'visible'});
+        })
+    //]]>
+</script>
+    
+    
+ <style>
+    /*Back to top button */
+    #back-top{
+        position:fixed;
+        bottom:10px;
+        right: 10px;  /*смещение на середину экрана*/
+        display: none; /*сначала скроем её*/
+    }
+    #back-top a{
+        width:64px;
+        display:block;
+        text-align:center;
+        font:11px/100% Arial, Helvetica, sans-serif;
+        text-transform:uppercase;
+        text-decoration:none;
+        color:#bbb;
+        /*при наведении мышки меняем фон медленно*/
+        -webkit-transition:1s;
+        -moz-transition:1s;
+        transition:1s;
+    }
+
+    /*при наведении мышки делаем фон черным*/
+    #back-top a:hover{
+        color:#000;
+    }
+
+    #back-top span{
+        width:px;
+        height:px;
+        display:block;
+        margin-bottom:7px;
+        background:#ddd url(http://nagateno.com/icon/2222222.PNG) no-repeat center center;
+        /* скругляем углы */
+        -webkit-border-radius:15px;
+        -moz-border-radius:15px;
+        border-radius:15px;
+        /*при наведении мышки меняем фон медленно*/
+        -webkit-transition:1s;
+        -moz-transition:1s;
+        transition:1s;
+    }
+    #back-top a:hover span{background-color:#777}
+</style>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        // прячем кнопку #back-top
+        $("#back-top").hide();
+
+        // появление/затухание кнопки #back-top
+        $(function (){
+            $(window).scroll(function (){
+                if ($(this).scrollTop() > 100){
+                    $('#back-top').fadeIn();
+                } else{
+                    $('#back-top').fadeOut();
+                }
+            });
+
+            // при клике на ссылку плавно поднимаемся вверх
+            $('#back-top a').click(function (){
+                $('body,html').animate({
+                    scrollTop:0
+                }, 800);
+                return false;
+            });
+        });
+    });
+</script>
+
+<p id="back-top">
+    <a href="#top"> ↕ <span></span>Вверх</a>
+</p>
+
+    
+        
+    <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3030421", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=3030421;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+    
+
+   
+
+ <!-- Top100 (Kraken) Counter -->
+<script>
+    (function (w, d, c) {
+    (w[c] = w[c] || []).push(function() {
+        var options = {
+            project: 4518402,
+            trackHashes: true,
+            user_id: null,
+        };
+        try {
+            w.top100Counter = new top100(options);
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+    s = d.createElement("script"),
+    f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src =
+    (d.location.protocol == "https:" ? "https:" : "http:") +
+    "//st.top100.ru/top100/top100.js";
+
+    if (w.opera == "[object Opera]") {
+    d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
+</script>
+<noscript>
+  <img src="//counter.rambler.ru/top100.cnt?pid=4518402" alt="Топ-100" />
+</noscript>
+<!-- END Top100 (Kraken) Counter -->
+    
+    
+    
+    
+
+
+<script>
+    $(document).ready(function () {
+        $(".showHideToggle").click(function (ctl) {
+            var linkedDivName = $(this).attr('class').replace('showHideToggle ', '');
+            var divToToggle = $("#" + linkedDivName);
+            //alert('current status: ' + divToToggle.css('display'));
+
+             if (divToToggle.css('display') == 'none') {
+                divToToggle.css("display", "block");
+                $(this).text(" X Закрыть ");
+            } else {
+                divToToggle.css("display", "none");
+                $(this).text("     +    ");
+            }
+        });
+    });
+</script>    
+
+    
+ 
+    
+
+    
+    <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter18456562 = new Ya.Metrika({ id:18456562, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/18456562" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+ 
+    
+    
+    
+     
+<!-- Прозрачность изображений
+
+<style>
+      img {
+        float: left;
+        margin-right: 5px;
+        opacity: 0.4;
+        filter: alpha(opacity=40); /*для IE8 и более ранних версий*/
+      }
+      img:hover {
+        opacity: 1.0;
+        filter: alpha(opacity=100);
+      }
+    </style>
+
+-->     
+    
+    
+      
+<!--   
+    
+     <style>
+     .fancybox-slide--iframe .fancybox-content {
+	width  : 100%;
+	height : 97%;
+	max-width  : 100%;
+	max-height : 100%;
+	margin: 0;
+  background: #191919;
+}
+     
+/* Custom modal content styling */
+
+.modal-container {
+  max-width: 500px;
+  padding: 0;
+  margin: 20px 0;
+  border-radius: .3em;
+  box-shadow: 0 0.1em 0.4em rgba(0,0,0,.3);
+}
+
+.modal-title {
+  font-weight: 700;
+  padding: 1.5em;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.modal-body {
+  max-height: calc(100vh - 230px);
+  min-height: 50px;
+  padding: 0 1.5em 1.5em 1.5em;
+  overflow-y: auto;
+}
+
+.modal-footer {
+  padding: 1.5em;
+  text-align: right;
+}
+
+p:first-child {
+  margin-top: 0;
+}
+
+     
+     
+ </style>
+
+-->   
+
+
+
+
+
+
+
+
+
+
+
+  <!--  
+
+<script>
+    $('[data-fancybox]').fancybox({
+  buttons : ['share', 'close'],
+  smallBtn : true,
+  hash : false,
+  share : {
+    url : function( instance, item ) {
+      if (item.type === 'inline' && item.contentType === 'video') {
+        return item.$content.find('source:first').attr('src');
+      }
+      
+      return item.src;
+    }
+  }
+});
+</script>
+
+, -->
+
+
+
+ <!--      
+<style>    
+[title]{
+    position:relative;
+}
+[title]:after{
+    content:attr(title);
+    color:#fff;
+    background:#000;
+    padding:10px;
+    position:absolute;
+    left:-9999px;
+    opacity:0;
+    bottom:-10%;
+    white-space:nowrap;
+    -webkit-transition:0.25s linear opacity;
+    transition:0.25s linear opacity;
+}
+[title]:hover:after{
+    left:5px;
+    opacity:1;
+}    
+    .tw_link[title]:after{background:#f60;}
+.th_link[title]:after{background:#333;}
+</style>
+   --> 
+    
+    
+    
+    
+    
+
+    
+         <script language="JavaScript">
+function fullScreen() {
+var el = document.documentElement
+    , rfs = // for newer Webkit and Firefox
+           el.requestFullScreen
+        || el.webkitRequestFullScreen
+        || el.mozRequestFullScreen
+        || el.msRequestFullScreen
+;
+if(typeof rfs!="undefined" && rfs){
+  rfs.call(el);
+} else if(typeof window.ActiveXObject!="undefined"){
+  // for Internet Explorer
+  var wscript = new ActiveXObject("WScript.Shell");
+  if (wscript!=null) {
+     wscript.SendKeys("{F11}");
+  }
+}
+
+}
+// End -->
+</script>    
+
+
+    
+    
+<!--В head сайта один раз подключите библиотеку-->
+<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+
+<!--AdFox START-->
+<!--nagateno-->
+<!--Площадка: Nagateno.Com / * / *-->
+<!--Тип баннера: Rich Media-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_153531220095185510"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 276277,
+        containerId: 'adfox_153531220095185510',
+        params: {
+            pp: 'g',
+            ps: 'cylb',
+            p2: 'p'
+        }
+    });
+</script>
+    
+
+   <!--В head сайта один раз подключите библиотеку-->
+<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+
+<!--AdFox START-->
+<!--nagateno-->
+<!--Площадка: Nagateno.Com / * / *-->
+<!--Тип баннера: 300x250 Turbo-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_153531201872631717"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 276277,
+        containerId: 'adfox_153531201872631717',
+        params: {
+            pp: 'g',
+            ps: 'cylb',
+            p2: 'fqen'
+        }
+    });
+</script>
+    
+
+    
+    
+  <script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>  
+  
+ </body>
+ </html>
+    
+    
+<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->

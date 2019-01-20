@@ -1,0 +1,1 @@
+The gdpr_consent string prevents cookies from being saved

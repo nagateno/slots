@@ -1,0 +1,6 @@
+try {
+    var _aManager = this.window.AdverturManager || parent.window.AdverturManager || top.window.AdverturManager || false;
+    if( _aManager ){
+        _aManager.setElementSettings('191900', 'strict', true);
+    }
+} catch (err) { };document.write("            <script>"+"\n"+"                var msg = {provider: 'sRTBMsg', act: 'showNext', sectionId: '82909', 'partner_id': '82'};"+"\n"+"                var w = window;"+"\n"+"                w.postMessage(JSON.stringify(msg), '*');"+"\n"+"                while(w != w.parent){"+"\n"+"                    w = w.parent;"+"\n"+"                    w.postMessage(JSON.stringify(msg), '*');"+"\n"+"                }"+"\n"+"            </script>"+"\n"+"")
