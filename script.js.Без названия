@@ -1,0 +1,26 @@
+if (typeof ar_bnum=='undefined') var ar_bnum = 1;
+var ad_fr = parent.document.getElementById('ad_ph_' + ar_bnum);
+if(ad_fr){
+    var ar_width = 240;
+    var ar_height = 400;
+    var section_id = 0;
+    if(ar_width==240 && ar_height==400){
+        if (typeof parent.advertur4_show_id !=='undefined') {
+            section_id = parent.advertur4_show_id;
+        }
+    }else if(ar_width==728 && ar_height==90){
+        if (typeof parent.advertur4_top_show_id !=='undefined') {
+            section_id = parent.advertur4_top_show_id;
+        }
+    }
+    if(section_id > 0) {
+        ad_fr.innerHTML = '<iframe id="ar_cont_'+ar_bnum+'" width="'+ar_width+'" height="'
+            +ar_height+'" marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe>';
+        var doc = parent.document.getElementById('ar_cont_'+ar_bnum).contentWindow.document;
+        doc.open();
+        doc.write('<sc'+'ript type="text/javascript" src="//ddnk.advertur.ru/v1/code.js?id='+section_id+'&s=5"></sc'+'ript>');
+        doc.close();
+        setTimeout( function() { ad_fr.style.display = "block"; },1000);
+        setTimeout("document.close();",1000);
+    }
+}
